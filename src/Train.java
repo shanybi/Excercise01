@@ -5,6 +5,5 @@ public class Train extends Vehicle {
     Train(int trainNumber, int numberOfCarts){
         this.trainNumber = trainNumber;
         this.numberOfCarts = numberOfCarts;
-
     }
 }
